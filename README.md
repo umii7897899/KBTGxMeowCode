@@ -13,5 +13,5 @@ KBTG ร่วมกับ MeowCode ขอนำเสนอคอร์ส "Say
 - Machine Learning
 - Build the model by Scikit-learn (อธิบาย Math เบื้องหลัก model แบบง่ายๆ)
   - Linear Models
-  - k-Nearest Neighbors
+  - Decision tree
 - Save Model by `Pickle` Module
